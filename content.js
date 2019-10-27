@@ -1,0 +1,1 @@
+window.location.replace("https://www.nba.com/gr/reflectIntl.html?gr=canadauw&page=www&&dur=1w");
